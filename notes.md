@@ -12,3 +12,6 @@ Managed redis
 Redis on Google Compute Engine
 * https://cloud.google.com/community/tutorials/setting-up-redis
 > Set protected-mode to off (https://redis.io/topics/security#protected-mode) or set password
+
+MongoDB Stich and google authentication
+* https://support.google.com/cloud/answer/6158849?hl=en
